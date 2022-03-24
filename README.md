@@ -1,2 +1,5 @@
-# horseman
-The issue repository for the Horseman crawler.
+# Horseman
+
+This repository is for tracking issues and feature requests for the Horseman crawler.
+
+👀
