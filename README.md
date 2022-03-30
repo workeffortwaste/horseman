@@ -8,4 +8,4 @@ https://github.com/workeffortwaste/horseman/issues
 
 ## Current Version
 
-The latest version is v0.1.2
+The latest version is v0.1.3
