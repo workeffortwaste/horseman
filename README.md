@@ -8,4 +8,4 @@ https://github.com/workeffortwaste/horseman/issues
 
 ## Current Version
 
-The latest version is v0.2.2 for Windows, MacOS (M1 and Intel).
+The latest version is v0.2.4 for Windows, MacOS (M1 and Intel), and Linux.
