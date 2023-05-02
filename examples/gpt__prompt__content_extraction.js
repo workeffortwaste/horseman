@@ -21,5 +21,5 @@ const content = (new pkg.Readability(documentClone).parse()).textContent
 
 /* Ask gpt-3.5-turbo to summarize the content */
 return {
-  prompt: \`Summarize the following content: \${ content }\`
+  prompt: `Summarize the following content: ${ content }`
 }

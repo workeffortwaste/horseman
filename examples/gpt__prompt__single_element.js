@@ -12,5 +12,5 @@ if (!meta) return
 
 /* Ask gpt-3.5-turbo to generate a new description */
 return {
-    prompt: \`Rewrite the following as a short 160 character poem: \${ meta } \`
+    prompt: `Rewrite the following as a short 160 character poem: ${ meta }`
 }

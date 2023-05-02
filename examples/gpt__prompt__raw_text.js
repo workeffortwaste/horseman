@@ -9,5 +9,5 @@ const html = document.body.innerText
 
 /* Ask gpt-3.5-turbo to generate a new description */
 return {
-    prompt: \`Do something with the following text: \${ html } \`
+    prompt: `Do something with the following text: ${ html }`
 }
